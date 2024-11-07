@@ -1,0 +1,4 @@
+#,user_id,username,email,created_at
+1,1,john_doe,john.doe@example.com,2024-11-04 13:29:29.468783
+2,2,jane_smith,jane.smith@example.com,2024-11-04 13:33:57.982035
+3,3,bob_jones,bob.jones@example.com,2024-11-04 13:33:57.982035
